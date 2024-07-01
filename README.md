@@ -1,4 +1,4 @@
-# Aerofit_Threadmills
+# Aerofit_Treadmills
 
 About Aerofit
 
