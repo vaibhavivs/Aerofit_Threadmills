@@ -1,0 +1,11 @@
+QUESTIONS
+1. Import the dataset and do the usual data analysis steps like checking the structure & characteristics of the dataset
+2. Detect Outliers (using boxplot, “describe” method by checking the difference between mean and median)
+3. Check if features like marital status, and age have any effect on the product purchased (using count plot, histplots, boxplots, etc)
+4. Representing the marginal probability like - what percent of customers have purchased KP281, KP481, or KP781 in a table (can use pandas. crosstab here)
+5. Check the correlation among different factors using heat maps or pair plots.
+6. With all the above steps you can answer questions like: What is the probability of a male customer buying a KP781 treadmill?
+7. Customer Profiling - Categorization of users.
+8. Probability- marginal, conditional probability.
+9. Some recommendations and actionable insights, based on the inferences.
+
